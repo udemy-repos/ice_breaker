@@ -4,14 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-requests = "*"
 langchain = "*"
-black = "*"
 openai = "*"
-install = "*"
-google-search-results = "*"
-tweepy = "*"
-flask = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
